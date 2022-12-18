@@ -28,18 +28,7 @@ const About = () => {
             <small>10+ Completed</small>
           </article>
         </div>
-        {/* <p>
-          project details
-          project details
-          project details
-          project details
-          project details<br>
-          </br>
-          project details
-          project details
-          project details
-          project details
-        </p> */}
+      
         <p>
           
         </p>
