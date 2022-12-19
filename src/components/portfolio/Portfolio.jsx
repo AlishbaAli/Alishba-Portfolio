@@ -10,9 +10,9 @@ const data =[
   {
     id: 1,
     image: IMG1,
-    title: 'Editorial Board Management Dashboard',
+    title: 'StarMap',
     github: 'https://github.com',
-    demo: '#'
+    demo: 'https://starmapbyme.netlify.app'
   },
   {
     id: 2,
