@@ -17,16 +17,16 @@ const data =[
   {
     id: 2,
     image: IMG2,
-    title: 'Mailshub',
-    github: 'https://github.com',
-    demo: '#'
+    title: 'Fetch-User',
+    github: 'https://github.com/AlishbaAli/fetch-user',
+    demo: 'https://fetch-fake-user.netlify.app/'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Mailshub',
-    github: 'https://github.com',
-    demo: '#'
+    title: 'Sounds',
+    github: 'https://github.com/AlishbaAli/sounds',
+    demo: 'https://abcsounds.netlify.app/'
   }
 ]
 const Portfolio = () => {
